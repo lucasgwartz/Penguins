@@ -1,1 +1,1 @@
-Analyzed Penguins Data in Seaborn, using Python.
+Analyzed Penguins Data in Seaborn using Python.

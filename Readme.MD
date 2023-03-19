@@ -1,1 +1,1 @@
-I analyzed Penguins dataset from Seaborn using Python.
+I analyzed the Penguins dataset from Seaborn using Python.
